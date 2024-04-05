@@ -1,0 +1,32 @@
+.landing{
+    position: relative;
+    bottom: 600px;
+    left: 700px;
+    background-color: antiquewhite;
+    height: 400px;
+}
+
+.bottom1{
+    position: relative;
+    bottom: 400px;
+}
+
+.hover{
+    background-color: black;
+    color: white;
+}
+
+.bottom2{
+    position: relative;
+    bottom: 400px;
+}
+
+.color{
+    background-color: rgb(243, 219, 184);
+}
+
+.name{
+    position: relative;
+    bottom: 330px;
+    left: 650px;
+}
